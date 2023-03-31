@@ -174,4 +174,6 @@ position: relative;
 }
 .card{
     height: 365px;
+    width: 335px;
+    padding: 20px 35px;
 }
