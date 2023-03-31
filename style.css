@@ -143,7 +143,7 @@ position: relative;
 
 }
 .about-text p{
-    color:#fcfc;
+    color:white;
     letter-spacing: 1px;
     line-height: 28px;
     font-size: 18px;
@@ -166,5 +166,9 @@ position: relative;
 
 }
 .box{
-    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 400px;
+
 }
