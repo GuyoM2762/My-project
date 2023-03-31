@@ -183,6 +183,10 @@ position: relative;
     position: relative;
     overflow: hidden;
     text-align: center;
+
+}
+h5{
+    color: white;
 }
  .pra p{
     color: #fcfc;
