@@ -134,7 +134,7 @@ position: relative;
 
 }
 .about-text h2{
-    color:#f9004d;
+    color:white;
     font-size: 75px;
     text-transform: capitalize;
     margin-bottom: 20px;
@@ -154,4 +154,14 @@ position: relative;
     background: #101010;
     width: 100%;
     padding: 100px 0px;
+}
+.title h2{
+    color: white;
+    width:1130px ;
+    font-size: 75px;
+    text-align: center;
+    margin: 30px auto;
+
+
+
 }
