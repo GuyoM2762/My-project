@@ -7,7 +7,7 @@
 .hero{
     height: 100vh;
     width: 100%;
-    background-image: url(Assets/images/download.jpeg);
+    background-image: url(Assets/images/comp.jpg);
     background-size: cover;
     background-position: center;
 
@@ -154,6 +154,7 @@ position: relative;
     background: #101010;
     width: 100%;
     padding: 100px 0px;
+
 }
 .title h2{
     color: white;
@@ -183,3 +184,4 @@ position: relative;
     overflow: hidden;
     text-align: center;
 }
+ 
